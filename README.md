@@ -2,10 +2,16 @@
 
 <!--START_SECTION:top_language-->
 ```text
-C#           256.78 KiB █████████████████████     85.39 %
-HTML          41.83 KiB ███                       13.91 %
-JavaScript     1.85 KiB                            0.62 %
-Smalltalk    261.00 B                              0.08 %
+PHP            7.88 MiB ████████                  33.50 %
+C#             4.42 MiB ████                      18.80 %
+JavaScript     3.84 MiB ████                      16.34 %
+HTML           2.64 MiB ██                        11.22 %
+C++            1.98 MiB ██                         8.42 %
+CSS            1.40 MiB █                          5.95 %
+Perl           1.20 MiB █                          5.12 %
+C            131.38 KiB                            0.55 %
+Shell         15.81 KiB                            0.07 %
+Batchfile      5.84 KiB                            0.02 %
 ```
 <!--END_SECTION:top_language-->
 
