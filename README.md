@@ -2,10 +2,10 @@
 
 <!--START_SECTION:top_language-->
 ```text
-C#           262,947 lines █████████████████████     85.39 %
-HTML          42,831 lines ███                       13.91 %
-JavaScript     1,895 lines                            0.62 %
-Smalltalk        261 lines                            0.08 %
+C#           256.78 KiB █████████████████████     85.39 %
+HTML          41.83 KiB ███                       13.91 %
+JavaScript     1.85 KiB                            0.62 %
+Smalltalk    261.00 B                              0.08 %
 ```
 <!--END_SECTION:top_language-->
 
