@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top-Languages Readme](https://github.com/MogsFriend/MogsFriend/workflows/Top-Languages%20Readme/badge.svg)
+
 <!--START_SECTION:top_language-->
 ```text
 PHP            7.88 MiB ████████                  33.50 %
