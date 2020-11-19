@@ -23,7 +23,7 @@ Pascal        39.50 KiB                              0.15 %
 
 #
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogsFriend&hide=prs,issues,contribs&count_private=true)
 <!--
 **MogsFriend/MogsFriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
