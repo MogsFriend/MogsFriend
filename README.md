@@ -9,7 +9,7 @@ C#             5.71 MiB █████                       22.50 %
 JavaScript     3.62 MiB ███                         14.28 %
 HTML           2.87 MiB ██                          11.32 %
 C++            2.19 MiB ██                           8.62 %
-CSS            1.46 MiB █                            5.76 %
+CSS            1.46 MiB █                            5.77 %
 Perl         821.18 KiB                              3.16 %
 Lua          625.94 KiB                              2.41 %
 C            180.73 KiB                              0.70 %
