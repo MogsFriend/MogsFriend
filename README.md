@@ -18,9 +18,8 @@ Pascal        39.50 KiB                              0.15 %
 <!--END_SECTION:top_language-->
 
 #
-
 ### Sleepy💤
-
+외주 작업 중이어서 PR / ISSUE 반응 속도가 느립니다.
 #
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogsFriend&hide=prs,issues,contribs&count_private=true)
