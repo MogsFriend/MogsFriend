@@ -20,6 +20,7 @@ Pascal        39.50 KiB                              0.14 %
 #
 ### Sleepy💤
 외주 작업 중이어서 PR / ISSUE 반응 속도가 느립니다.
+개인 GIT에 작업하고 있어 Activity가 적습니다. 공개용으로 제작하는 프로젝트만 Github Repo에 올리는 중입니다.
 #
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogsFriend&hide=prs,issues,contribs&count_private=true)
