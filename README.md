@@ -21,7 +21,7 @@ Pascal        39.50 KiB                              0.14 %
 ### Sleepy💤
 Currently working on private git server. visible activity so lower then real activity.
 #
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MogsFriend&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogsFriend&hide=prs,issues,contribs&count_private=true)
 <!--
 **MogsFriend/MogsFriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
