@@ -19,7 +19,7 @@ Pascal        39.50 KiB                              0.14 %
 
 #
 ### Sleepy💤
-개인 GIT에 작업하고 있어 Activity가 적습니다. 공개용으로 제작하는 프로젝트만 Github Repo에 올리는 중입니다.
+Currently working on private git server. visible activity so lower then real activity.
 #
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogsFriend&hide=prs,issues,contribs&count_private=true)
