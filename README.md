@@ -6,7 +6,7 @@
 ```text
 PHP            7.88 MiB ██████                      27.57 %
 C#             5.95 MiB █████                       20.84 %
-JavaScript     4.87 MiB ████                        17.05 %
+JavaScript     4.87 MiB ████                        17.06 %
 HTML           4.33 MiB ███                         15.15 %
 C++            2.16 MiB █                            7.55 %
 CSS            1.70 MiB █                            5.95 %
