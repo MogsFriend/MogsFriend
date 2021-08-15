@@ -4,16 +4,16 @@
 
 <!--START_SECTION:top_language-->
 ```text
-Smali         79.02 MiB ██████████████████████      89.81 %
-HTML           2.58 MiB                              2.93 %
-JavaScript     2.47 MiB                              2.80 %
-C++            1.87 MiB                              2.12 %
-Perl         821.18 KiB                              0.91 %
-C#           749.28 KiB                              0.83 %
-CSS          459.58 KiB                              0.51 %
-C             31.91 KiB                              0.04 %
-PHP           18.25 KiB                              0.02 %
-Shell          8.84 KiB                              0.01 %
+HTML           2.58 MiB ███████                     28.79 %
+JavaScript     2.47 MiB ██████                      27.53 %
+C++            1.87 MiB █████                       20.85 %
+Perl         821.18 KiB ██                           8.95 %
+C#           749.28 KiB ██                           8.16 %
+CSS          459.58 KiB █                            5.01 %
+C             31.91 KiB                              0.35 %
+PHP           18.25 KiB                              0.20 %
+Shell          8.84 KiB                              0.10 %
+Batchfile      5.17 KiB                              0.06 %
 ```
 <!--END_SECTION:top_language-->
 
