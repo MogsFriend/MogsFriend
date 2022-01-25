@@ -4,11 +4,11 @@
 
 <!--START_SECTION:top_language-->
 ```text
-JavaScript     2.70 MiB ███████                     28.39 %
-HTML           2.69 MiB ███████                     28.27 %
-C++            1.87 MiB ████                        19.66 %
-C#           951.24 KiB ██                           9.77 %
-Perl         821.18 KiB ██                           8.44 %
+JavaScript     2.70 MiB ███████                     28.37 %
+HTML           2.69 MiB ███████                     28.24 %
+C++            1.88 MiB ████                        19.74 %
+C#           951.24 KiB ██                           9.76 %
+Perl         821.18 KiB ██                           8.43 %
 CSS          469.32 KiB █                            4.82 %
 C             29.98 KiB                              0.31 %
 PHP           18.25 KiB                              0.19 %
