@@ -4,16 +4,16 @@
 
 <!--START_SECTION:top_language-->
 ```text
-JavaScript     3.38 MiB ███████                     30.20 %
-HTML           2.69 MiB ██████                      24.05 %
-C#             1.91 MiB ████                        17.12 %
-C++            1.87 MiB ████                        16.71 %
-Perl         821.18 KiB █                            7.17 %
-CSS          477.50 KiB █                            4.17 %
-PHP           18.25 KiB                              0.16 %
-Python        17.64 KiB                              0.15 %
-Vue           14.35 KiB                              0.13 %
-Shell          8.84 KiB                              0.08 %
+JavaScript     3.38 MiB ██████                      24.96 %
+C++            3.34 MiB ██████                      24.70 %
+HTML           2.69 MiB ████                        19.88 %
+C#             2.65 MiB ████                        19.62 %
+Perl         821.18 KiB █                            5.93 %
+CSS          477.50 KiB                              3.45 %
+Python       134.96 KiB                              0.97 %
+C             19.57 KiB                              0.14 %
+PHP           18.25 KiB                              0.13 %
+Vue           14.35 KiB                              0.10 %
 ```
 <!--END_SECTION:top_language-->
 
