@@ -5,10 +5,10 @@
 <!--START_SECTION:top_language-->
 ```text
 JavaScript     3.38 MiB █████                       22.44 %
-C++            3.34 MiB █████                       22.16 %
-C#             2.82 MiB ████                        18.67 %
-HTML           2.70 MiB ████                        17.91 %
-Rust           1.24 MiB ██                           8.22 %
+C++            3.34 MiB █████                       22.15 %
+C#             2.82 MiB ████                        18.69 %
+HTML           2.70 MiB ████                        17.90 %
+Rust           1.24 MiB ██                           8.21 %
 Perl         821.18 KiB █                            5.32 %
 CSS          484.56 KiB                              3.14 %
 Python       134.96 KiB                              0.87 %
