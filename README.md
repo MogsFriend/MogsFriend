@@ -7,11 +7,11 @@
 C#            14.94 MiB ████████████                49.99 %
 C++            5.72 MiB ████                        19.15 %
 JavaScript     3.40 MiB ██                          11.37 %
-HTML           2.71 MiB ██                           9.07 %
+HTML           2.71 MiB ██                           9.08 %
 Rust           1.24 MiB █                            4.14 %
 Perl         821.18 KiB                              2.68 %
 CSS          495.46 KiB                              1.62 %
-Go           305.14 KiB                              1.00 %
+Go           302.83 KiB                              0.99 %
 Python       134.96 KiB                              0.44 %
 Smalltalk     64.47 KiB                              0.21 %
 ```
