@@ -7,13 +7,13 @@
 C#            17.04 MiB █████████                   38.47 %
 C             12.00 MiB ██████                      27.10 %
 C++            5.76 MiB ███                         13.00 %
-JavaScript     3.40 MiB █                            7.68 %
+JavaScript     3.40 MiB █                            7.67 %
 HTML           2.71 MiB █                            6.13 %
 Rust           1.24 MiB                              2.80 %
 Perl         826.49 KiB                              1.82 %
 CSS          495.46 KiB                              1.09 %
 Python       371.59 KiB                              0.82 %
-Go           309.83 KiB                              0.68 %
+Go           311.20 KiB                              0.69 %
 ```
 <!--END_SECTION:top_language-->
 
