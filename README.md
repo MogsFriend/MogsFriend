@@ -12,7 +12,7 @@ HTML           2.71 MiB █                            6.11 %
 Rust           1.24 MiB                              2.79 %
 Perl         826.49 KiB                              1.82 %
 CSS          495.46 KiB                              1.09 %
-Go           374.36 KiB                              0.82 %
+Go           377.35 KiB                              0.83 %
 Python       371.59 KiB                              0.82 %
 ```
 <!--END_SECTION:top_language-->
