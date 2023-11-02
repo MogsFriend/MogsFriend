@@ -4,14 +4,14 @@
 
 <!--START_SECTION:top_language-->
 ```text
-C             29.12 MiB ██████████                  42.60 %
-C#            23.48 MiB ████████                    34.35 %
-C++            5.77 MiB ██                           8.45 %
-JavaScript     3.40 MiB █                            4.97 %
-HTML           2.71 MiB                              3.97 %
+C             29.12 MiB ██████████                  42.50 %
+C#            23.64 MiB ████████                    34.51 %
+C++            5.77 MiB ██                           8.43 %
+JavaScript     3.40 MiB █                            4.96 %
+HTML           2.71 MiB                              3.96 %
 Rust           1.24 MiB                              1.81 %
 Perl         826.49 KiB                              1.18 %
-Go           714.44 KiB                              1.02 %
+Go           714.48 KiB                              1.02 %
 CSS          495.46 KiB                              0.71 %
 Python       416.00 KiB                              0.59 %
 ```
