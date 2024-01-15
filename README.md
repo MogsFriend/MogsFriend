@@ -5,7 +5,7 @@
 <!--START_SECTION:top_language-->
 ```text
 C             29.12 MiB ██████████                  42.26 %
-C#            24.02 MiB ████████                    34.87 %
+C#            24.03 MiB ████████                    34.87 %
 C++            5.77 MiB ██                           8.38 %
 JavaScript     3.40 MiB █                            4.93 %
 HTML           2.71 MiB                              3.94 %
