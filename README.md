@@ -4,12 +4,12 @@
 
 <!--START_SECTION:top_language-->
 ```text
-C            29.12 MiB ████████                    34.73 %
-C#           24.04 MiB ███████                     28.67 %
+C            29.12 MiB ████████                    34.71 %
+C#           24.04 MiB ███████                     28.66 %
 JavaScript    7.58 MiB ██                           9.04 %
-C++           5.77 MiB █                            6.89 %
+C++           5.77 MiB █                            6.88 %
 Ruby          3.97 MiB █                            4.73 %
-HTML          2.88 MiB                              3.44 %
+HTML          2.90 MiB                              3.46 %
 TypeScript    2.67 MiB                              3.19 %
 Vue           1.59 MiB                              1.89 %
 Rust          1.42 MiB                              1.69 %
